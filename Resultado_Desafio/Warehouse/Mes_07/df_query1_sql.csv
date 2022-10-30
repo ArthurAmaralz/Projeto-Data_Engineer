@@ -1,0 +1,81 @@
+Rank,Regiao,Substancia,Total
+1,EAST OF ENGLAND,Enteral nutrition,192697545.0
+2,EAST OF ENGLAND,Emollients,39365263.0
+3,EAST OF ENGLAND,Other food for special diet preparations,25073579.0
+4,EAST OF ENGLAND,Metformin hydrochloride,19347932.0
+5,EAST OF ENGLAND,Paracetamol,18850837.0
+6,EAST OF ENGLAND,Atorvastatin,17490581.0
+7,EAST OF ENGLAND,Other emollient preparations,16880336.0
+8,EAST OF ENGLAND,Co-codamol (Codeine phosphate/paracetamol),15018065.0
+9,EAST OF ENGLAND,Alginic acid compound preparations,13208793.0
+10,EAST OF ENGLAND,Levothyroxine sodium,12699041.0
+1,LONDON,Enteral nutrition,291761025.0
+2,LONDON,Emollients,69710518.0
+3,LONDON,Other emollient preparations,31968345.0
+4,LONDON,Metformin hydrochloride,31618795.0
+5,LONDON,Other food for special diet preparations,26674263.0
+6,LONDON,Atorvastatin,20326668.0
+7,LONDON,Methadone hydrochloride,17329724.0
+8,LONDON,Alginic acid compound preparations,16570847.0
+9,LONDON,Paracetamol,15864569.0
+10,LONDON,Amlodipine,14623932.0
+1,MIDLANDS,Enteral nutrition,425550066.0
+2,MIDLANDS,Emollients,82614750.0
+3,MIDLANDS,Other food for special diet preparations,58287559.0
+4,MIDLANDS,Paracetamol,45540371.0
+5,MIDLANDS,Other emollient preparations,45387566.0
+6,MIDLANDS,Metformin hydrochloride,36164799.0
+7,MIDLANDS,Alginic acid compound preparations,35980265.0
+8,MIDLANDS,Co-codamol (Codeine phosphate/paracetamol),33527097.0
+9,MIDLANDS,Atorvastatin,30520115.0
+10,MIDLANDS,Lactulose,26616215.0
+1,NORTH EAST AND YORKSHIRE,Enteral nutrition,315557391.0
+2,NORTH EAST AND YORKSHIRE,Emollients,60695044.0
+3,NORTH EAST AND YORKSHIRE,Other food for special diet preparations,47879066.0
+4,NORTH EAST AND YORKSHIRE,Paracetamol,45454066.0
+5,NORTH EAST AND YORKSHIRE,Alginic acid compound preparations,42527279.0
+6,NORTH EAST AND YORKSHIRE,Other emollient preparations,33839083.0
+7,NORTH EAST AND YORKSHIRE,Metformin hydrochloride,26845186.0
+8,NORTH EAST AND YORKSHIRE,Atorvastatin,26386659.0
+9,NORTH EAST AND YORKSHIRE,Methadone hydrochloride,23540248.0
+10,NORTH EAST AND YORKSHIRE,Co-codamol (Codeine phosphate/paracetamol),21553580.0
+1,NORTH WEST,Enteral nutrition,351184419.0
+2,NORTH WEST,Emollients,46612845.0
+3,NORTH WEST,Other emollient preparations,39373124.0
+4,NORTH WEST,Other food for special diet preparations,34980650.0
+5,NORTH WEST,Alginic acid compound preparations,31100892.0
+6,NORTH WEST,Paracetamol,29671816.0
+7,NORTH WEST,Co-codamol (Codeine phosphate/paracetamol),27381276.0
+8,NORTH WEST,Metformin hydrochloride,22540404.0
+9,NORTH WEST,Atorvastatin,20568294.0
+10,NORTH WEST,Lactulose,19596437.0
+1,SOUTH EAST,Enteral nutrition,264684499.0
+2,SOUTH EAST,Emollients,53613190.0
+3,SOUTH EAST,Other food for special diet preparations,38558885.0
+4,SOUTH EAST,Methadone hydrochloride,33796632.0
+5,SOUTH EAST,Paracetamol,25845493.0
+6,SOUTH EAST,Other emollient preparations,25131450.0
+7,SOUTH EAST,Metformin hydrochloride,24930831.0
+8,SOUTH EAST,Atorvastatin,21745830.0
+9,SOUTH EAST,Omeprazole,19049570.0
+10,SOUTH EAST,Co-codamol (Codeine phosphate/paracetamol),18758252.0
+1,SOUTH WEST,Enteral nutrition,119987497.0
+2,SOUTH WEST,Emollients,40055717.0
+3,SOUTH WEST,Paracetamol,25884013.0
+4,SOUTH WEST,Other food for special diet preparations,17315058.0
+5,SOUTH WEST,Other emollient preparations,15774010.0
+6,SOUTH WEST,Omeprazole,15722257.0
+7,SOUTH WEST,Atorvastatin,15632573.0
+8,SOUTH WEST,Alginic acid compound preparations,15284991.0
+9,SOUTH WEST,Metformin hydrochloride,15029085.0
+10,SOUTH WEST,Co-codamol (Codeine phosphate/paracetamol),12963280.0
+1,UNIDENTIFIED,Enteral nutrition,1025493.0
+2,UNIDENTIFIED,Emollients,136881.0
+3,UNIDENTIFIED,Other food for special diet preparations,121145.0
+4,UNIDENTIFIED,Methadone hydrochloride,110161.0
+5,UNIDENTIFIED,Other emollient preparations,75227.0
+6,UNIDENTIFIED,Phenoxymethylpenicillin (Penicillin V),54524.0
+7,UNIDENTIFIED,Amoxicillin,52710.0
+8,UNIDENTIFIED,Catheters,41905.0
+9,UNIDENTIFIED,Co-codamol (Codeine phosphate/paracetamol),40106.0
+10,UNIDENTIFIED,Catheter Maintenance Products,32200.0
