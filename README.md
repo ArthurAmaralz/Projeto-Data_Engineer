@@ -45,3 +45,5 @@ A alternancia entre Pyspark e Pandas se deu pelo seguinte motivo:
     * Gere uma tabela que contenha apenas a prescrição de maior valor de cada usuário.
  5. Faça uma rotina que mensalmente colete os dados do ultimo mes e adiciona apenas os dados que sejam novos. Essa rotina deve rodar automaticamente todos os meses, escolha a forma que preferir para essa atividade. `Rotina concluida com soluções tecnicas alternativas, porpulamente conhecida por Gambiarra`
 
+----
+Arthur Amaral de Lima --- [Linkedin](https://www.linkedin.com/in/arthuramaral-py/) --- arthur.absens@gmail.com
