@@ -3,10 +3,20 @@ Resolução dos desafios
 
 ### Objetivo: 
 
-`O presente projeto tem como objetivo simular requisições referentes a 3 meses distintos para extração, validação, tratamento, analise e persistencia de dados.`
+`O presente projeto tem como objetivo simular requisições referentes a 3 meses distintos` 
+`para extração, validação, tratamento, analise e persistencia de dados.`
 
 
 ![1591992418037](https://user-images.githubusercontent.com/61892694/198920194-af876621-dda5-46e4-b426-c12d9d75df71.png)
 
-## Preparação do ambiente
+
+### Preparação do ambiente:
+
+A principio iria fazer todo o processo pela minha VM linux/Ubuntu, pois é onde eu já tenho todo o ambiente com spark e o ecossistema hadoop.
+Para minha infelicidade, vulgo lei de murphy em ação, encontrei diversos problemas na hora de importar os dados, tanto atravez de API ( que não conseguia exportar os dados online ) como permissões de transferência e acesso aos arquivos baixados localmente na comunicação da minha maquina ( windows ) com a VM Ubuntu.
+
+O cenário ideal seria realizar todo o desafio em Cloud, mas por ter tido uma péssima experiência financeira com a AWS ( Sim amigos, eu deixei todos meu ambiente AWS + databricks rodando 24/7 por 2 semanas $$$$$ ) e estava com receio de ter os mesmo custos com a Azure ou GCP, principalmente por conta do volume de dados (Só o EPD_202208.csv = 6,4GB) e precisar de um cluster mais potente para processamento, tornando mais $$$ que minha experiencia anterior.
+
+>P.s.: Também pensei em utilizar no formato .ZIP ( 586GB ), mas ainda iria ser onoroso para os processamentos e transformações...
+>Por isso no final optei por utilizar o Jupyter (Anaconda) localmente junto de seus recursos para seguir todos o processo .
 
