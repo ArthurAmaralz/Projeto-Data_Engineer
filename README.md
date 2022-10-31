@@ -35,7 +35,7 @@ A alternancia entre Pyspark e Pandas se deu pelo seguinte motivo:
 2.	Crie um processo para validação dos dados extraídos.
 3.	Persista os dados da forma que achar melhor. Exemplo: arquivos, mysql, postgreSQL, sqlite, mongodb, delta, store em cloud, etc.
 4.	Gere scripts que atendam as solicitações abaixo
-a.	Crie um dataframe contendo os 10 principais produtos químicos prescritos por região. 
+-	Crie um dataframe contendo os 10 principais produtos químicos prescritos por região. 
  b.	Quais produtos químicos prescritos tiveram a maior somatória de custos por mês? Liste os 10 primeiros. 
   c.	Quais são as precrições mais comuns? 
   d.	Qual produto químico é mais prescrito por cada prescriber?
