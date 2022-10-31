@@ -43,4 +43,5 @@ A alternancia entre Pyspark e Pandas se deu pelo seguinte motivo:
     * Quais prescribers atuam em mais de uma região? Ordene por quantidade de regiões antendidas.
     * Qual o preço médio dos químicos prescritos em no ultimo mês coletado?
     * Gere uma tabela que contenha apenas a prescrição de maior valor de cada usuário.
+ 7. Faça uma rotina que mensalmente colete os dados do ultimo mes e adiciona apenas os dados que sejam novos. Essa rotina deve rodar automaticamente todos os meses, escolha a forma que preferir para essa atividade.
 
