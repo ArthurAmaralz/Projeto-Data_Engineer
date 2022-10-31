@@ -2,7 +2,7 @@
  
  
  
-A ideia a principio seria importar o arquivo .py e ultilizar o cloud schedute, cloud functions e pub/sub para realizar a trigger entre eles, e persistir os dados no google stored como no esquema a baixo:
+#### A ideia a principio seria importar o arquivo .py e ultilizar o cloud schedute, cloud functions e pub/sub para realizar a trigger entre eles, e persistir os dados no google stored como no esquema a baixo:
 
 
 ![1_M_hAvJZVNbKTy86VOlK4QA](https://user-images.githubusercontent.com/61892694/198929868-44c8a80c-5594-4ce6-a382-dc7aac02a243.png)
@@ -21,4 +21,4 @@ A ideia a principio seria importar o arquivo .py e ultilizar o cloud schedute, c
 
 ### Então por esse motivo optei pela solução contida em:
 
-- [Solução tecnica alternativa para schedule](Resultado_Desafio/Teste_agendamento_altenativo.ipynb)
+- [Solução tecnica alternativa para schedule](Teste_agendamento_altenativo.ipynb)
