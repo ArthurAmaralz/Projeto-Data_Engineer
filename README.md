@@ -6,7 +6,7 @@ Resolução dos desafios:
 - [Dados de junho](Resultado_Desafio/Desafio_mes_junho.ipynb)
 - [Notebook com documentação da rotina](Resultado_Desafio/Rotina_Mensal.ipynb)
 - [Arquivo .py para fazer schedule manual da rotina pelo SO](Resultado_Desafio/Rotina_Mensal.py)
-- [Solução tecnica alternativa](Resultado_Desafio/Teste_agendamento_altenativo.ipynb)
+- [Solução tecnica alternativa para schedule](Resultado_Desafio/Teste_agendamento_altenativo.ipynb)
 
 Dados exportados das soluções:
 - [Warehouse](Resultado_Desafio/Warehouse)
