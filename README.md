@@ -1,6 +1,15 @@
 # Desafio - Data_Engineer
 Resolução dos desafios:
+
 - [Dados de Agosto](Resultado_Desafio/Desafio_mes_agosto.ipynb)
+- [Dados de Julho](Resultado_Desafio/Desafio_mes_julho.ipynb)
+- [Dados de junho](Resultado_Desafio/Desafio_mes_junho.ipynb)
+
+- [Notebook com documentação da rotina](Resultado_Desafio/Rodina_Mensal.ipynb)
+- [Arquivo .py para fazer schedule manual da rotina pelo SO](Resultado_Desafio/Rotina_Mensal.py)
+- [Solução tecnica alternativa](Resultado_Desafio/Teste_agendamento_altenativo.ipynb)
+
+
 
 ### Objetivo: 
 
