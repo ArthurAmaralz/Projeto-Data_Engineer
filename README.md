@@ -22,8 +22,25 @@ O cenário ideal seria realizar todo o desafio em Cloud, mas por ter tido uma p�
 ### Para realizar as atividades propostas:
 
 Todo processamento foi realizado local e ultilizando os 
-frameworks apache spark e pandas, juntamente de SQL
+framework apache spark e a biblioteca do pandas, juntamente de SQL
 
-A alternancia entre os frameworks se deu pelo seguinte motivo:
+A alternancia entre Pyspark e Pandas se deu pelo seguinte motivo:
 - Pyspark : para importação e processamento dos grandes volumes de dados
 - Pandas: para manipulacao, exportação e melhor vizualização dos dados
+
+
+### Atividades:
+
+1.	Realize a extração dos dados dos 3 ultimos meses de prescrição (english-prescribing-data-epd).
+2.	Crie um processo para validação dos dados extraídos.
+3.	Persista os dados da forma que achar melhor. Exemplo: arquivos, mysql, postgreSQL, sqlite, mongodb, delta, store em cloud, etc.
+4.	Gere scripts que atendam as solicitações abaixo
+  a.	Crie um dataframe contendo os 10 principais produtos químicos prescritos por região. 
+  b.	Quais produtos químicos prescritos tiveram a maior somatória de custos por mês? Liste os 10 primeiros. 
+  c.	Quais são as precrições mais comuns? 
+  d.	Qual produto químico é mais prescrito por cada prescriber?
+  e.	Quantos prescribers foram adicionados no ultimo mês? 
+  f.	Quais prescribers atuam em mais de uma região? Ordene por quantidade de regiões antendidas.
+  g.	Qual o preço médio dos químicos prescritos em no ultimo mês coletado?
+  h.	Gere uma tabela que contenha apenas a prescrição de maior valor de cada usuário.
+
