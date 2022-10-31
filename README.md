@@ -5,10 +5,11 @@ Resolução dos desafios:
 - [Dados de Julho](Resultado_Desafio/Desafio_mes_julho.ipynb)
 - [Dados de junho](Resultado_Desafio/Desafio_mes_junho.ipynb)
 - [Notebook com documentação da rotina](Resultado_Desafio/Rotina_Mensal.ipynb)
+- [Tentativa de schedule no GCP](Resultado_Desafio/GCP_agendamento.md)
 - [Arquivo .py para fazer schedule manual da rotina pelo SO](Resultado_Desafio/Rotina_Mensal.py)
 - [Solução tecnica alternativa para schedule](Resultado_Desafio/Teste_agendamento_altenativo.ipynb)
 
-Dados exportados das soluções:
+Dados das soluções armazenadas:
 - [Warehouse](Resultado_Desafio/Warehouse)
 
 
